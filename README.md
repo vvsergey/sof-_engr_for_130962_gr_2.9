@@ -25,4 +25,9 @@
 - $ git clone git@github.com:vvsergey/sof-_engr_for_130962_gr_2.9.git
 - $ git add .
 - $ git commit -m "add "
+- $ git pull origin master *забрать изменения с удаленного репозитория*
 - $ git push -u origin main
+
+
+
+
