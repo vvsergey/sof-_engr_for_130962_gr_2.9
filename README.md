@@ -19,7 +19,6 @@
 - $ deactivate
 
 
-
 ### работа с GIT
 - $ sudo apt install git
 - $ git clone git@github.com:vvsergey/sof-_engr_for_130962_gr_2.9.git
@@ -29,5 +28,8 @@
 - $ git push -u origin main
 
 
+### Установка пакетов python
+- pip install
+- pip freeze requirements.txt
 
 
