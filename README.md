@@ -2,10 +2,17 @@
 *This is the prject for course  SoftwareEngeneers*
 
 ## authors:
-1. Королев А.К. (мск) @ak_ijk
-2. Лобачев В.И. (мск), tg: @isackcorn
-3. Сергеев В.В. (мск), tg: @vlvase
-4. Запатоцкий Ю.М. (мск) tg: @VirtusTex
+1. Сергеев В.В. (мск), tg: @vlvase
+2. Запатоцкий Ю.М. (мск) tg: @VirtusTex
+
+## Home work 1
+### Запатоцкий Ю.М.
+Приложения для перевода основанное на предобученной модели с Huggingface
+Для запуска необходимо изменить переменную text и выполнить следующий код
+```
+python ./hw1/transtator.py
+```
+Результат перевод выведится на экран
 
 ## Comamnds for linux:
 - $ sudo apt insatall pip
