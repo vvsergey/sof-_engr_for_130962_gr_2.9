@@ -36,12 +36,12 @@ streamlit run ./hw2/predictions.py
 
 Загрузить картинку
 
-![Screenshot 1](https://github.com/srtxtex/software_engineering/blob/main/hw2/screenshot_1.png?raw=true)
+![Screenshot 1](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw2/screenshot_1.png?raw=true)
 Нажать кнопку "Распознать изображение"
 
 Результат классификации выведится на экран
 
-![Screenshot 1](https://github.com/srtxtex/software_engineering/blob/main/hw2/screenshot_1.png?raw=true)
+![Screenshot 1](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw2/screenshot_1.png)
 
 ## Home work 3
 ### Запатоцкий Ю.М., Сергеев В.В.
