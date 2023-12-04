@@ -63,6 +63,7 @@ uvicorn predict_with_api:app
 
 В поле "Example value" вместо строки text вставить свой текст для классификации
 
+![Screenshot 1](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw3/screenshot-1.png)
 Нажать кнопку "Execute" снизу
 
 В блоке "Server response" в блоке "Response body" будет результат классификации
@@ -70,6 +71,8 @@ uvicorn predict_with_api:app
 В ключе "label" находится лейбл оценки, позитивная она или нет
 
 В ключе "score" находится оценка вероятности классификации текста этому лейблу
+
+![Screenshot 2](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw3/screenshot-2.png)
 
 ## Home work 4
 ### Запатоцкий Ю.М., Сергеев В.В.
