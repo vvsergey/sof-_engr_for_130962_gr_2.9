@@ -35,10 +35,11 @@ streamlit run ./hw2/predictions.py
 Открыть в браузере адрес http://localhost:8501/
 
 Загрузить картинку
-
+![Screenshot 1](https://github.com/srtxtex/software_engineering/blob/main/hw2/screenshot_1.png)
 Нажать кнопку "Распознать изображение"
 
 Результат классификации выведится на экран
+![Screenshot 1](https://github.com/srtxtex/software_engineering/blob/main/hw2/screenshot_1.png)
 
 ## Home work 3
 ### Запатоцкий Ю.М., Сергеев В.В.
