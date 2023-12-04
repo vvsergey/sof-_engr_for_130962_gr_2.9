@@ -81,12 +81,12 @@ uvicorn predict_with_api:app
 
 Загрузить картинку
 
-![Screenshot 1](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw2/screenshot-1.png)
+![Screenshot 1](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw4/screenshot-1.png)
 Нажать кнопку "Распознать изображение"
 
 Результат классификации выведится на экран
 
-![Screenshot 2](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw2/screenshot-2.png)
+![Screenshot 2](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw4/screenshot-2.png)
 
 ## Comamnds for linux:
 - $ sudo apt insatall pip
