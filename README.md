@@ -109,13 +109,17 @@ pytest
 ```
 Если все тесты выполнены успешно, будет выведено сообщение "3 passed".
 
+![Screenshot 1](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw5/screenshot-1.png)
 Дополнительно, тесты выполняются в рамках CI при выполнении команды push или создания pull request
 
 Результаты выполнения тестов в рамках CI можно посмотреть в репозитории проекта в разделе Actions в таблице All workflows.
 
 В случае успешного прохождения тестов у события вызвавшего CI будет зеленая галочка, в противном случае красный крестик.
 
+![Screenshot 2](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw5/screenshot-2.png)
 Для более подробного просмотра результатов CI нужно нажать на название события, затем открыть работу build.
+
+![Screenshot 3](https://github.com/vvsergey/sof-_engr_for_130962_gr_2.9/blob/main/hw5/screenshot-3.png)
 
 ## Comamnds for linux:
 - $ sudo apt insatall pip
